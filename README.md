@@ -25,6 +25,6 @@ Para facilitar o desenvolvimento, recomendamos o uso do **GitHub Codespaces**, q
 Sinta-se à vontade para clonar, estudar, adaptar e aplicar em suas próprias turmas.
 
 ---
-Dra. Greice Keli Silva Lacerda 
-Pesquisadora e Professora de Matemática
+Dra. Greice Keli Silva Lacerda \\
+Pesquisadora e Professora de Matemática \\
 [Projeto MATH⟨⟨FUSION⟩⟩TECH | DEPEXT]
