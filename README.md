@@ -10,7 +10,7 @@ Este repositório contém o material prático, códigos-base e instruções para
 ## 🎯 Objetivo
 Capacitar licenciandos em Matemática a desenvolverem seus próprios **Mathlets** (pequenos aplicativos matemáticos), utilizando a linguagem Python e a biblioteca Streamlit, visando a ressignificação do ensino de Análise Real através da autoria digital.
 
-## 🚀 Como iniciar (Quick Start)
+## 🚀 Como iniciar
 
 Para facilitar o desenvolvimento, recomendamos o uso do **GitHub Codespaces**, que configura todo o ambiente na nuvem para você sem necessidade de instalações locais:
 
@@ -30,4 +30,4 @@ Sinta-se à vontade para clonar, estudar, adaptar e aplicar em suas próprias tu
 
 ### Profa. Dra. Greice Keli Silva Lacerda
 #### Pesquisadora e Professora de Matemática 
-#### Projeto MATH⟨⟨FUSION⟩⟩TECH | DEPEXT
+#### Projeto Math⟨⟨Fusion⟩⟩Tech | DEPEXT
