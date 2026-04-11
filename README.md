@@ -1,4 +1,4 @@
-# MATH⟨⟨FUSION⟩⟩TECH ♾️💻
+# Math⟨⟨Fusion⟩⟩Tech ♾️💻
 ### Oficina Online de Construção de Mathlets com Streamlit
 
 ![Banner da Oficina](Figura15_Vol1.png)
